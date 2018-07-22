@@ -1,7 +1,7 @@
 BLUE BLINKING BLOCK BLAST
 Features:
 Avoid the gray blocks
-Survive as long as possible to earn the most points
+You will survive as long as you earn the most points
 Collect coins to earn more points
 from most valuable to least: Blue, Red, Yellow
 Shoot stuff
